@@ -70,6 +70,21 @@ Demonstrar a aplicação prática de conceitos de **Business Intelligence**, des
 
 ### 📈 Indicadores R$ | UND | PDV's
 
+## 💻 Competências demonstradas
+
+- 📊 Desenvolvimento de dashboards no Power BI
+- 🧮 Criação de medidas e cálculos com DAX
+- 🔄 Tratamento e transformação de dados com Power Query
+- 🗂️ Modelagem e relacionamento de dados
+- 📈 Criação e acompanhamento de KPIs
+- 💰 Análise de indicadores comerciais
+- 👥 Análise de clientes, vendedores e desempenho da equipe
+- 📦 Análise de produtos, marcas e volume de vendas
+- 📅 Análise temporal e comparação entre períodos
+- 🎨 Planejamento de layout e identidade visual no Figma
+- 📊 Visualização e apresentação de dados
+- 📗 Utilização do Excel como fonte de dados
+
 ![Indicadores](indicadores-rs-und-pdv.png)
 
 ### 📅 Vendas Diárias
