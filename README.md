@@ -57,3 +57,21 @@ Demonstrar a aplicação prática de conceitos de **Business Intelligence**, des
 ## 🔐 Dados
 
 > **Todos os dados utilizados neste projeto são fictícios e foram criados exclusivamente para fins de demonstração e portfólio.**
+
+## 📊 Dashboards
+
+### 🏢 Dashboard Comercial
+
+![Dashboard Comercial](dashboard-comercial.png)
+
+### 👥 Equipe de Vendas
+
+![Equipe de Vendas](equipe-de-vendas.png)
+
+### 📈 Indicadores R$ | UND | PDV's
+
+![Indicadores](indicadores-rs-und-pdv.png)
+
+### 📅 Vendas Diárias
+
+![Vendas Diárias](vendas-diarias.png)
